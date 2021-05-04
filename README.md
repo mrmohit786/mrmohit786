@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [devmohit404@netlify.com](devmohit404@netlify.com)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **patelmohit719@gmail.com**
 
