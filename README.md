@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit patel</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-
+![](https://visitor-badge.glitch.me/badge?page_id=mrmohit786.mrmohit786&left_color=green&right_color=red)
 
 Joined Github **4** years ago.
 Pushed **230** commits across **25** repositories.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/iammohit404/) ![] (https://visitor-badge.glitch.me/badge?page_id=mrmohit786.mrmohit786&left_color=green&right_color=red)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iammohit404/)
 
 Most used languages across my projects:
 
