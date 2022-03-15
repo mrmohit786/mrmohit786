@@ -4,7 +4,7 @@
 Joined Github **4** years ago.
 Pushed **230** commits across **25** repositories.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/iammohit404/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrmohit786.mrmohit786&left_color=green&right_color=red)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iammohit404/)
 
 Most used languages across my projects:
 
